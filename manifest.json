@@ -1,11 +1,11 @@
 {
-    "name": "the_100",
-    "short_name": "the_100",
+    "name": "El 100",
+    "short_name": "El 100",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F0E7D6",
+    "theme_color": "#F0E7D6",
+    "description": "Puzzle de números: llega al 100 siguiendo las reglas de salto.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
